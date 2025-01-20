@@ -1,6 +1,7 @@
 {
     "cmake.options.statusBarVisibility": "visible",
     "cmake.options.advanced": {
+        
         "build": {
             "statusBarVisibility": "inherit",
             "inheritDefault": "visible"
